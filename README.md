@@ -1,7 +1,8 @@
-- 👋 Selam, ben @miclohie
+- 👋 Selam! Ben @miclohie
 - 👀 Müzik dinlemekten hoşlanıyorum ...
 - 🌱 Bişeyler öğrenmeye çalışıyorum ...
 - 📫 bana su e posta yoluyla ulaşabilirsin! ... idil61066@gmail.com
+- discord : @miclohie
 
 <!---
 miclohie/miclohie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
